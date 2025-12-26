@@ -1,0 +1,13 @@
+pandas
+numpy
+requests
+yfinance
+scikit-learn
+statsmodels
+tensorflow
+hmmlearn
+prophet
+matplotlib
+plotly
+streamlit
+joblib
